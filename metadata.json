@@ -1,0 +1,6 @@
+{
+  "name": "U.S. Visa Interview Dashboard",
+  "description": "Browser-based U.S. Visa Interview Status Dashboard for Global Mobility, HR Operations, and senior leadership with offline Excel parsing, validation, and aggregate-only reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
